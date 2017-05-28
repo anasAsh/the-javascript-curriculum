@@ -9,15 +9,6 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 > Have lingering questions about why you should be doing JavaScipt? Check out this [presentation](http://slides.com/doguhanuluca/agile-done-right-using-javascript-and-node-3#/) on Why JavaScript?
 
 
-### Pre-Requisites
-- [ ] You already have Node Js installed on your fedora machine, you will need to upgrade to node > 6, do this using [NVM](https://www.liquidweb.com/kb/how-to-install-nvm-node-version-manager-on-fedora-23/).
-- [ ] Get a good text editor/IDE.
-  - Text Editor
-    - [Atom](http://www.atom.io/)
-    - [Sublime Text](http://www.sublimetext.com/3)
-    - [Textmate](http://macromates.com/download)
-    - [Brackets](http://brackets.io/)
-
 ### How to Ask for Help
 The Internet is a vast cache of information and if you know how to navigatge it well, you can become a very effective learner.
 
@@ -26,6 +17,25 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - If the above strategies fail, then feel free to ask other team members.
 - Always provide full and complete information when asking for help.
 - Specific questions are far more likely to get answered, than general/generic questions.
+
+##Reading Materials
+### Web
+ - [ ] HTML 5
+  - http://www.w3schools.com/html/html5_intro.asp
+ - [ ] CSS 3
+  - http://www.w3schools.com/css/css3_intro.asp
+  
+ ### A Re-Introduction to JavaScript
+ - [ ] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ 
+### Pre-Requisites
+- [ ] You already have Node Js installed on your fedora machine, you will need to upgrade to node > 6, do this using [NVM](https://www.liquidweb.com/kb/how-to-install-nvm-node-version-manager-on-fedora-23/).
+- [ ] Get a good text editor/IDE.
+  - Text Editor
+    - [Atom](http://www.atom.io/)
+    - [Sublime Text](http://www.sublimetext.com/3)
+    - [Textmate](http://macromates.com/download)
+    - [Brackets](http://brackets.io/)
 
 ### Absolute Beginners
 - [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
@@ -40,14 +50,6 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
   
-### A Re-Introduction to JavaScript
- - [ ] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
- 
-### Web
- - [ ] HTML 5
-  - http://www.w3schools.com/html/html5_intro.asp
- - [ ] CSS 3
-  - http://www.w3schools.com/css/css3_intro.asp
 
 ### Become a Better JavaScript Developer
 - [ ] Learn the best practices of writing clean JavaScript code.

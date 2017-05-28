@@ -18,7 +18,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - Always provide full and complete information when asking for help.
 - Specific questions are far more likely to get answered, than general/generic questions.
 
-##Reading Materials
+## Reading Materials
 ### Web
  - [ ] HTML 5
   - http://www.w3schools.com/html/html5_intro.asp
@@ -36,6 +36,8 @@ The Internet is a vast cache of information and if you know how to navigatge it 
     - [Sublime Text](http://www.sublimetext.com/3)
     - [Textmate](http://macromates.com/download)
     - [Brackets](http://brackets.io/)
+
+## Get started
 
 ### Absolute Beginners
 - [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
